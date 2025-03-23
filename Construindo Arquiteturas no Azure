@@ -1,0 +1,5 @@
+Foi explicado que a LGPD garante a segurança e privacidade dos dados, e o Azure oferece ferramentas para conformidade, como criptografia e controle de acesso.
+A replicação permite alta disponibilidade ao duplicar dados, enquanto o data residency garante que eles sejam armazenados conforme exigências legais.
+
+Também foi mostrado como arquitetar soluções no Azure, organizando serviços com grupos de recursos e criando uma rede virtual (VNet) para comunicação segura. 
+No geral, a aula destacou como o Azure facilita a gestão de infraestrutura na nuvem, garantindo segurança e escalabilidade

@@ -1,0 +1,7 @@
+Na videoaula, aprendi sobre os tipos de nuvem e o processo de criação de uma instância de banco de dados SQL no Microsoft Azure.
+
+Primeiro, foram explicados os três principais tipos de nuvem: pública, onde os recursos são compartilhados entre clientes e gerenciados pelo provedor; privada, que oferece maior controle e é exclusiva para uma organização; e híbrida, que combina as duas anteriores, permitindo flexibilidade para mover dados entre elas.
+
+Em seguida, a aula demonstrou como criar uma instância de banco de dados SQL no Azure. O processo envolve acessar o portal, configurar a instância com nome, credenciais e plano de preço, e depois conectar ao banco através do portal do Azure ou de ferramentas como o SQL Server Management Studio.
+
+A videoaula mostrou como o Azure torna fácil criar e gerenciar recursos de banco de dados, oferecendo soluções escaláveis e de alta disponibilidade, tudo sem precisar se preocupar com a infraestrutura

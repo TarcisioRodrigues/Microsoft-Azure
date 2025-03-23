@@ -1,0 +1,11 @@
+
+Criando máquinas Virtuais na Azure
+
+A videoaula apresentou os benefícios da computação em nuvem e os principais recursos disponíveis na Microsoft Azure. A nuvem oferece escalabilidade, permitindo que empresas ajustem seus recursos conforme a demanda, 
+além de flexibilidade, suportando diversas tecnologias e integrações. A segurança também foi destacada, com proteção contra ataques cibernéticos e backups automáticos para evitar perda de dados.
+
+Entre os serviços disponíveis no Azure, foram mencionadas as Máquinas Virtuais, que permitem rodar aplicações sem servidores físicos, os Bancos de Dados Gerenciados (SQL e NoSQL),
+garantindo alta disponibilidade, e os serviços de Inteligência Artificial e Machine Learning, que possibilitam automação e análise de dados. Além disso, a plataforma conta com armazenamento na nuvem e recursos de segurança e redes, 
+como firewall e controle de acessos.
+
+A aula enfatizou como a Microsoft Azure facilita a adoção da nuvem, proporcionando soluções completas que ajudam empresas a reduzir custos e aumentar a eficiência.

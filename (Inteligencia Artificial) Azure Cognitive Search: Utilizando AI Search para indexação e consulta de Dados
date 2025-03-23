@@ -1,0 +1,7 @@
+O Azure Cognitive Search é uma ferramenta da Microsoft que utiliza inteligência artificial para indexar e consultar dados de forma eficiente. O processo de configuração começa com a criação do serviço no portal do Azure,
+seguido pela conexão com fontes de dados como SQL ou Cosmos DB. Após isso, é necessário criar um índice definindo os campos pesquisáveis e configurar um indexador para manter os dados atualizados automaticamente.
+
+Uma das principais vantagens do AI Search é a aplicação de inteligência artificial para melhorar a relevância das pesquisas, entendendo o contexto das consultas, realizando correções automáticas e adaptando-se ao idioma.
+Isso proporciona uma experiência mais eficiente e personalizada para os usuários. A ferramenta é útil para diversos tipos de aplicações, como chatbots, e-commerce e sistemas internos de empresas, ajudando a otimizar a busca de informações.
+
+O uso do Azure Cognitive Search permite uma indexação estruturada, atualização automatizada de dados e uma pesquisa mais inteligente, melhorando a eficiência operacional e a experiência do usuário.

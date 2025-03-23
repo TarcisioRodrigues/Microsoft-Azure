@@ -1,0 +1,9 @@
+O Serviço de Bot do Azure permite a criação de bots inteligentes que interagem com usuários de forma natural. Com o uso de inteligência artificial, esses bots conseguem entender e responder mensagens de maneira eficiente.
+
+Um dos principais recursos é a análise de texto, que identifica o contexto e o significado da conversa, permitindo que o bot compreenda não apenas as palavras, mas também a intenção do usuário. Além disso,
+ele consegue interpretar linguagem coloquial, tornando as interações mais naturais.
+
+Para aprimorar a experiência, o serviço conta com o Azure Speech Services, que oferece reconhecimento de fala (convertendo áudio em texto) e síntese de fala (transformando texto em voz).
+Dessa forma, os bots podem entender comandos de voz e responder falando, proporcionando uma comunicação mais dinâmica e acessível.
+
+Esse serviço é ideal para empresas que desejam automatizar o atendimento e melhorar a interação com os usuários por meio da inteligência artificia

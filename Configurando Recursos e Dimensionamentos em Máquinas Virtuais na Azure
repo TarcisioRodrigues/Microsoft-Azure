@@ -1,0 +1,5 @@
+Foi explicado que o dimensionamento é fundamental para garantir desempenho e economia, permitindo ajustar a capacidade das máquinas virtuais (VMs) conforme a demanda. Durante a configuração, é possível escolher processador, memória, armazenamento e rede,
+além de definir escalabilidade automática para otimizar custos.
+
+No gerenciamento de recursos, a aula destacou o uso de grupos de recursos, monitoramento com Azure Monitor e ferramentas para controle de custos e desempenho. No geral, o Azure oferece flexibilidade para criar e gerenciar 
+infraestrutura de forma eficiente e escalável. 
